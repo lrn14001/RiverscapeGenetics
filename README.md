@@ -12,3 +12,4 @@ Rcode- code for running microsat error checks and riverscape genetics models
 
 GM_data.xlsx - data for riverscape genetics gravity models
 
+BKT_PCR_protocol.xlsv - PCR cocktail recipie and thermocylcer profiles
